@@ -1,0 +1,36 @@
+				--------------------Invoice-----------------
+
+						   Grill & Chill
+
+						BML Munjal University
+
+					    Kapriwas Sidhrawali Haryana
+
+GSTIN: 03AWBPP8756K592									Contact: (+91) 8307607758
+
+Date: 24/11/2022 02:41:06  Thursday							 (+91) 8822554411
+
+------------------------------------------------------------------------------------------------------------------
+Product ID 		Name		Quantity		Rate 				Total Price
+--------------------------------------------------------------------------------------------------------------------
+106				Fries				2				99				198
+101				Pizza				3				199				597
+102				Pasta				1				220				220
+102				Pasta				1				220				220
+108				Chaap				2				200				400
+
+
+
+Bill Id: 200
+Order Id: 900
+Mode of Transaction:  Cash
+
+
+Total Amount (Rs.):   1635
+SGST (5%):                81.75
+CGST (5%):                81.75
+Net Amount:               1798.5
+
+				----------------Thank You for Shopping!!-----------------
+
+				                     Visit Again

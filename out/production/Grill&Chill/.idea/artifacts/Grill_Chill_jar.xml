@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Grill&amp;Chill:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Grill_Chill_jar</output-path>
+    <root id="archive" name="Grill&amp;Chill.jar">
+      <element id="module-output" name="Grill&amp;Chill" />
+      <element id="extracted-dir" path="C:/Program Files (x86)/MySQL/Connector J 8.0/mysql-connector-java-8.0.30.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

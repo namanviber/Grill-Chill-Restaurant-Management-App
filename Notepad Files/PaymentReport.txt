@@ -1,0 +1,34 @@
+				--------------------Invoice-----------------
+
+						   Grill & Chill
+
+						BML Munjal University
+
+					    Kapriwas Sidhrawali Haryana
+
+GSTIN: 03AWBPP8756K592									Contact: (+91) 8307607758
+
+Date: 24/11/2022 03:29:20  Thursday							 (+91) 8822554411
+
+------------------------------------------------------------------------------------------------------------------
+Product ID 		Name		Quantity		Rate 				Total Price
+--------------------------------------------------------------------------------------------------------------------
+101				Pizza				1				199				199
+116				Coke				2				80				160
+117				Chole Bhature				1				150				150
+
+
+
+Bill Id: 204
+Order Id: 908
+Mode of Transaction:  Cash
+
+
+Total Amount (Rs.):   509
+SGST (5%):                25.450000000000003
+CGST (5%):                25.450000000000003
+Net Amount:               559.9000000000001
+
+				----------------Thank You for Shopping!!-----------------
+
+				                     Visit Again
